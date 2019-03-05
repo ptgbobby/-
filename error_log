@@ -1,0 +1,2 @@
+[27-Feb-2019 23:17:21 Europe/Sofia] PHP Warning:  Creating default object from empty value in /home/vratdke8/public_html/contact.php on line 12
+[27-Feb-2019 23:17:23 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vratdke8/public_html/contact.php:12) in /home/vratdke8/public_html/contact.php on line 15
